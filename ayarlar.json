@@ -1,0 +1,19 @@
+  {
+  "prefix":        "PREFİX",
+  "token":         "TOKEN",
+  "sahip":         "SAHİP İD",
+  "durum":         "BOTUN DURUMU",
+  
+  "yetkili":       "YETKİLİ ROL İD",
+  "abonerol":      "ABONE ROL İD",
+  "kayıtsız":      "KAYITSIZ ROL İD",
+  
+  "abonelog":      "GALERİ CHAT İD",
+  "galerichat":    "ABONE LOG İD",
+  "odayagir":      "BOTUN ODASININ İDSİ",
+
+    
+  "sunucu":        "SUNUCU İD"
+
+
+  }
